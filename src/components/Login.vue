@@ -11,7 +11,7 @@
 <script>
 import { fb, auth} from '../firebase';
 export default {
-    name: "Login",
+    name: 'Login',
     data() {
         return {
             user: null
